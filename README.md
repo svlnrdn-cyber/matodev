@@ -38,5 +38,7 @@ int main()
     cout << "En büyük değer: " << max_value << endl;
 
     return 0;
+                                    
+    }
 
 </pre>
